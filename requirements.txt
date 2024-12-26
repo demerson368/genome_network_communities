@@ -1,0 +1,8 @@
+conda==22.11.1
+python==3.8.5
+numpy==1.16.1
+lib5c==0.6.1
+matplotlib==3.6.3
+scipy==1.5.1
+pip==20.2.4 
+requests==2.27.1
